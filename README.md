@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="sistema-escolar">Sistema Escolar</h1>
 <p>O exercício a seguir possui a seguinte diretriz:</p>
